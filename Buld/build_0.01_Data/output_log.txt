@@ -1,0 +1,1884 @@
+Mono path[0] = 'D:/new/new/new/test/Buld/build_0.01_Data/Managed'
+Mono path[1] = 'D:/new/new/new/test/Buld/build_0.01_Data/Mono'
+Mono config path = 'D:/new/new/new/test/Buld/build_0.01_Data/Mono/etc'
+PlayerConnection initialized from D:/new/new/new/test/Buld/build_0.01_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55046
+Multi-casting "[IP] 192.168.0.164 [Port] 55046 [Flags] 2 [Guid] 240112587 [EditorId] 3730048186 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-3U1JTEJ) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55046]
+PlayerConnection already initialized - listening to [0.0.0.0:55046]
+Initialize engine version: 5.5.0p3 (84ad46be53aa)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\new\new\new\test\Buld\build_0.01_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.095 seconds
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\new\new\new\test\Buld\build_0.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.434504 ms
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Click
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainGame:UserClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\MainGame.cs:147)
+GameFiedl:WhoClick(Int32, Int32) (at D:\new\new\new\test\Assets\Script\GameFiedl.cs:261)
+ClickField:OnMouseDown() (at D:\new\new\new\test\Assets\Script\ClickField.cs:24)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:164)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/new/new/new/test/Assets/Script/MainGame.cs Line: 147)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cfc -> priority: 1 
